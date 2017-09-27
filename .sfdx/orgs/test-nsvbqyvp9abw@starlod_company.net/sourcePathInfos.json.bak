@@ -32,28 +32,28 @@
     [
         "/Users/starlod/Code/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 306,
             "modifiedTime": 1506476545000,
             "changeTime": 1506476545000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1506476324000,
+            "changeTime": 1506476324000,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1506476653000,
-            "changeTime": 1506476653000,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -830,7 +830,7 @@
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
             "size": 292,
-            "modifiedTime": 1506476463000,
+            "modifiedTime": 1506476262000,
             "changeTime": 1506476262000,
             "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
             "isMetadataFile": false,
@@ -866,14 +866,14 @@
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1506476353000,
+            "changeTime": 1506476353000,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1506476737000,
-            "changeTime": 1506476737000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -895,7 +895,7 @@
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
             "size": 91,
-            "modifiedTime": 1506476461000,
+            "modifiedTime": 1506476362000,
             "changeTime": 1506476362000,
             "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
             "isMetadataFile": false,
@@ -944,274 +944,92 @@
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1506476545000,
             "changeTime": 1506476545000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5665,
             "modifiedTime": 1506476545000,
             "changeTime": 1506476545000,
-            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "28aa78f5da9c28a170da9bd200341268ca40700c"
         }
     ],
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5661,
             "modifiedTime": 1506476545000,
             "changeTime": 1506476545000,
-            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "fad07bdcd9f7fdcc4a0fca93d7b75dca7b32f689"
         }
     ],
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18119,
             "modifiedTime": 1506476545000,
             "changeTime": 1506476545000,
-            "contentHash": "9c48d668752c980ff4e175ae31b1228407268664",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "9c48d668752c980ff4e175ae31b1228407268664"
         }
     ],
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 6001,
             "modifiedTime": 1506476545000,
             "changeTime": 1506476545000,
-            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a3e0259648daa926b32408e4c45905577e5c1b56"
         }
     ],
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1506476545000,
             "changeTime": 1506476545000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
         "/Users/starlod/Code/geolocation/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 204,
             "modifiedTime": 1506476545000,
             "changeTime": 1506476545000,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1506476653000,
-            "changeTime": 1506476653000,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1506476599000,
-            "changeTime": 1506476599000,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 341,
-            "modifiedTime": 1506476669000,
-            "changeTime": 1506476669000,
-            "contentHash": "54fba69395bda7b5f07d7683a0e698a0749fecfb"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1506476653000,
-            "changeTime": 1506476653000,
-            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1506476717000,
-            "changeTime": 1506476717000,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1506476706000,
-            "changeTime": 1506476706000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1506476653000,
-            "changeTime": 1506476653000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1506476653000,
-            "changeTime": 1506476653000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 120,
-            "modifiedTime": 1506476618000,
-            "changeTime": 1506476618000,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1506476599000,
-            "changeTime": 1506476599000,
-            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1506476629000,
-            "changeTime": 1506476629000,
-            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1506476599000,
-            "changeTime": 1506476599000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1506476599000,
-            "changeTime": 1506476599000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/starlod/Code/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1506476599000,
-            "changeTime": 1506476599000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
